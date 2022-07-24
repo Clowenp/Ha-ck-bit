@@ -429,4 +429,19 @@ img {
   }
 
 
+/* Reflection */
 
+  .reflection_text {
+    width: 700px;
+    height: 200px;
+  }
+
+  .reflection_container {
+   margin-top: 30px; 
+  }
+
+  .reflection_btn {
+    margin-left: 122px;
+    margin-top: 50px;
+
+  }
